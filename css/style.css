@@ -1,0 +1,7 @@
+input[type=text] {
+    width: 40%;
+    box-sizing: border-box;
+}
+.search {
+    background-color: #C0C0C0;
+}
